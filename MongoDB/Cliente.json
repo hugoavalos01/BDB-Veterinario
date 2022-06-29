@@ -1,31 +1,31 @@
 [
     {
         "Dni":876394864,
-        "Nombre":"Juan",
+        "NombreCliente":"Juan",
         "Apellido":"Martinez",
         "Contacto":678304964
     },
     {
         "Dni":736473859,
-        "Nombre":"Jose",
+        "NombreCliente":"Jose",
         "Apellido":"Rodriguez",
         "Contacto":623045121
     },
     {
         "Dni":876394865,
-        "Nombre":"Maria",
+        "NombreCliente":"Maria",
         "Apellido":"Fernandez",
         "Contacto":640590932
     },
     {
         "Dni":395924231,
-        "Nombre":"Luis",
+        "NombreCliente":"Luis",
         "Apellido":"Lopez",
         "Contacto":621932412
     },
     {
         "Dni":3986739406,
-        "Nombre":"Fernando",
+        "NombreCliente":"Fernando",
         "Apellido":"Acosta",
         "Contacto":612040878
     }
