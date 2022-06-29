@@ -1,18 +1,18 @@
 [
     {
         "idEmpleado":1,
-        "Nombre":"Elena",
+        "NombreEmpleado":"Elena",
         "Apellidos":"Alcantara"
         
     },
     {
         "idEmpleado":2,
-        "Nombre":"Pablo",
+        "NombreEmpleado":"Pablo",
         "Apellidos":"Ruiz"
     },
     {
         "idEmpleado":3,
-        "Nombre":"Sofia",
+        "NombreEmpleado":"Sofia",
         "Apellidos":"Merida"
     }
 ]
