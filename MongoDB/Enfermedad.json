@@ -1,0 +1,27 @@
+[
+    {
+        "Nombre":"Traqueobronquitis",
+        "Grado":2,
+        "Descripcion":"No respira bien",
+        "Tratamiento_Nombre": "Doxicilina"
+    },
+    {
+        "Nombre":"Hepatitis",
+        "Grado":3,
+        "Descripcion":"Urgente",
+        "Tratamiento_Nombre": "Metronidazol"
+    },
+    {
+        "Nombre":"Otitis",
+        "Grado":1,
+        "Descripcion":"Leve inflamacion",
+        "Tratamiento_Nombre": "Cefotaxima"
+    },
+    {
+        "Nombre":"Cancer",
+        "Grado":0,
+        "Descripcion":"Recuperado",
+        "Tratamiento_Nombre": "Quimioterapia"
+    }
+]
+

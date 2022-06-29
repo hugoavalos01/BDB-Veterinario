@@ -1,0 +1,29 @@
+[
+    {
+        "idMutacion":1,
+        "CodonAfectado":"ATGTAC",
+        "Gen_idGen":1,
+        "Enfermedad_Nombre":"Hepatitis"
+        
+    },
+    {
+        "idMutacion":2,
+        "CodonAfectado":"CTGACA",
+        "Gen_idGen":2,
+        "Enfermedad_Nombre":"Otitis"
+    },
+    {
+        "idMutacion":3,
+        "CodonAfectado":"CGAATC",
+        "Gen_idGen":3,
+        "Enfermedad_Nombre":"Traqueobronquitis"
+    },
+    {
+        "idMutacion":4,
+        "CodonAfectado":"AATCGA",
+        "Gen_idGen":4,
+        "Enfermedad_Nombre":"Cancer"
+    }
+    
+]
+

@@ -1,0 +1,70 @@
+[
+    {
+        "idAnimal":1,
+        "Nombre":"Tobi",
+        "Cliente_DNI":876394864,
+        "Empleado_idEmpleado":1,
+        "Mutacion_idMutacion":3,
+        "Mutacion_Enfermedad_Nombre":"Traqueobronquitis",
+        "Tratamiento":"Doxicilina"
+  
+    },
+    {
+        "idAnimal":2,
+        "Nombre":"Lulu",
+        "Cliente_DNI":736473859,
+        "Empleado_idEmpleado":2,
+        "Mutacion_idMutacion":2,
+        "Mutacion_Enfermedad_Nombre":"Otitis",
+        "Tratamiento":"Cefotaxima"
+    },
+    {
+        "idAnimal":3,
+        "Nombre":"Coco",
+        "Cliente_DNI":876394865,
+        "Empleado_idEmpleado":3,
+        "Mutacion_idMutacion":1,
+        "Mutacion_Enfermedad_Nombre":"Hepatitis",
+        "Tratamiento":"Metronidazol"
+    },
+    {
+        "idAnimal":4,
+        "Nombre":"Tyson",
+        "Cliente_DNI":736473859,
+        "Empleado_idEmpleado":3,
+        "Mutacion_idMutacion":3,
+        "Mutacion_Enfermedad_Nombre":"Traqueobronquitis",
+        "Tratamiento":"Doxicilina"
+    },
+    {
+        "idAnimal":5,
+        "Nombre":"Mango",
+        "Cliente_DNI":876394864,
+        "Empleado_idEmpleado":3,
+        "Mutacion_idMutacion":3,
+        "Mutacion_Enfermedad_Nombre":"Traqueobronquitis",
+        "Tratamiento":"Doxicilina"
+    },
+    {
+        "idAnimal":6,
+        "Nombre":"Kemba",
+        "Cliente_DNI":986739406,
+        "Empleado_idEmpleado":2,
+        "Mutacion_idMutacion":1,
+        "Mutacion_Enfermedad_Nombre":"Hepatitis",
+        "Tratamiento":"Metronidazol"
+    },
+    {
+        "idAnimal":7,
+        "Nombre":"Vespa",
+        "Cliente_DNI":395924231,
+        "Empleado_idEmpleado":1,
+        "Mutacion_idMutacion":4,
+        "Mutacion_Enfermedad_Nombre":"Cancer",
+        "Tratamiento":"Quimioterapia"
+    }
+    
+]
+
+
+
