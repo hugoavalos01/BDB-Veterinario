@@ -1,25 +1,25 @@
 [
     {
         "idGen":1,
-        "Nombre":"AGRN",
+        "NombreGen":"AGRN",
         "Posicion": 45321,
         "longitud": 47
     },
     {
         "idGen":2,
-        "Nombre":"DVL1",
+        "NombreGen":"DVL1",
         "Posicion": 453234,
         "longitud": 2
     },
     {
         "idGen":3,
-        "Nombre":"VWA1",
+        "NombreGen":"VWA1",
         "Posicion": 321523,
         "longitud": 24
     },
     {
         "idGen":4,
-        "Nombre":"ATAD3A",
+        "NombreGen":"ATAD3A",
         "Posicion": 12342123,
         "longitud": 1
     }
