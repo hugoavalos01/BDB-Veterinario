@@ -1,15 +1,15 @@
 [
     {
-        "Nombre": "Metronidazol"
+        "NombreTratamiento": "Metronidazol"
     },
     {
-        "Nombre": "Cefotaxima"
+        "NombreTratamiento": "Cefotaxima"
     },
     {
-        "Nombre": "Doxicilina"
+        "NombreTratamiento": "Doxicilina"
     },
     {
-        "Nombre": "Quimioterapia"
+        "NombreTratamiento": "Quimioterapia"
     }
     
 ]
