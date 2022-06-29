@@ -1,7 +1,7 @@
 [
     {
         "idAnimal":1,
-        "Nombre":"Tobi",
+        "NombreAnimal":"Tobi",
         "Cliente_DNI":876394864,
         "Empleado_idEmpleado":1,
         "Mutacion_idMutacion":3,
@@ -11,7 +11,7 @@
     },
     {
         "idAnimal":2,
-        "Nombre":"Lulu",
+        "NombreAnimal":"Lulu",
         "Cliente_DNI":736473859,
         "Empleado_idEmpleado":2,
         "Mutacion_idMutacion":2,
@@ -20,7 +20,7 @@
     },
     {
         "idAnimal":3,
-        "Nombre":"Coco",
+        "NombreAnimal":"Coco",
         "Cliente_DNI":876394865,
         "Empleado_idEmpleado":3,
         "Mutacion_idMutacion":1,
@@ -29,7 +29,7 @@
     },
     {
         "idAnimal":4,
-        "Nombre":"Tyson",
+        "NombreAnimal":"Tyson",
         "Cliente_DNI":736473859,
         "Empleado_idEmpleado":3,
         "Mutacion_idMutacion":3,
@@ -38,7 +38,7 @@
     },
     {
         "idAnimal":5,
-        "Nombre":"Mango",
+        "NombreAnimal":"Mango",
         "Cliente_DNI":876394864,
         "Empleado_idEmpleado":3,
         "Mutacion_idMutacion":3,
@@ -47,7 +47,7 @@
     },
     {
         "idAnimal":6,
-        "Nombre":"Kemba",
+        "NombreAnimal":"Kemba",
         "Cliente_DNI":986739406,
         "Empleado_idEmpleado":2,
         "Mutacion_idMutacion":1,
@@ -56,7 +56,7 @@
     },
     {
         "idAnimal":7,
-        "Nombre":"Vespa",
+        "NombreAnimal":"Vespa",
         "Cliente_DNI":395924231,
         "Empleado_idEmpleado":1,
         "Mutacion_idMutacion":4,
